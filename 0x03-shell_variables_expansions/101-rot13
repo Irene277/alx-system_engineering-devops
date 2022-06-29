@@ -1,2 +1,3 @@
 #!/bin/bash
 r [A-Za-z] [N-ZA-Mn-za-m] 
+r [A-Za-z] [N-ZA-Mn-za-m]
